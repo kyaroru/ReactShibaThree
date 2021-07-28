@@ -5,6 +5,7 @@ This is a simple react app with 3D model rendering using
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 - [three.js](https://threejs.org/docs/)
 - [Shiba Model](https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c)
+- For Pure JS version, can refer to [ShibaThree](https://github.com/kyaroru/ShibaThree)
 - Packages included:
 
 ```
